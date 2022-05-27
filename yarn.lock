@@ -1552,10 +1552,10 @@
   dependencies:
     long-timeout "^0.1.1"
 
-"@tryghost/color-utils@0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@tryghost/color-utils/-/color-utils-0.1.17.tgz#76f4f4b692ca5a636f95cdb361c23c225bf2c348"
-  integrity sha512-L/KggfVR/CjthuS85qNWz1OTuT1DLK3Ugx5VDBvX2KKCzDcQ/cppUJCOJeP0ARWN0vVP92znCAsdJAgAF38pvA==
+"@tryghost/color-utils@0.1.18":
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@tryghost/color-utils/-/color-utils-0.1.18.tgz#9b9ee077b5f1d54307a0f6b66bad21e13c64344f"
+  integrity sha512-TX45k/L4F/yPFbWKdPsmovivavsMFuSWI2WwRBeZP3rbt4+F6TQNf3GLj4FUl+THDb02QCodILUmnR7IVnCAKQ==
   dependencies:
     color "^3.2.1"
 
@@ -1653,7 +1653,7 @@
   dependencies:
     html-to-text "^5.1.1"
 
-"@tryghost/errors@1.2.12", "@tryghost/errors@^1.0.0", "@tryghost/errors@^1.1.0", "@tryghost/errors@^1.1.1", "@tryghost/errors@^1.2.1", "@tryghost/errors@^1.2.12", "@tryghost/errors@^1.2.3", "@tryghost/errors@^1.2.5":
+"@tryghost/errors@1.2.12":
   version "1.2.12"
   resolved "https://registry.yarnpkg.com/@tryghost/errors/-/errors-1.2.12.tgz#906f2cf603dd90f6e386f4a95b963d613e4279e6"
   integrity sha512-VRRsat58v+bNX/fsjDXc7EVcyoZnOdGmAqNe6mCxmPVLWO55qEic0M+AJFnBh1TOCCkx+kRvH46+C0JOomfKAw==
@@ -1662,7 +1662,7 @@
     utils-copy-error "^1.0.1"
     uuid "^8.3.2"
 
-"@tryghost/errors@1.2.13":
+"@tryghost/errors@1.2.13", "@tryghost/errors@^1.0.0", "@tryghost/errors@^1.1.0", "@tryghost/errors@^1.1.1", "@tryghost/errors@^1.2.1", "@tryghost/errors@^1.2.12", "@tryghost/errors@^1.2.3", "@tryghost/errors@^1.2.5":
   version "1.2.13"
   resolved "https://registry.yarnpkg.com/@tryghost/errors/-/errors-1.2.13.tgz#09a680f81e5b14a008427d772689683d1280e221"
   integrity sha512-uZmPndO4UriA+n1qw+X6V25SG1X3WLNy1sgHflDlMAYiKtwDlKl6N5128BXoydLrATLAqb+to+G3QorM4+4nKw==
